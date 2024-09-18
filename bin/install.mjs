@@ -69,7 +69,7 @@ try {
   console.log(
     "To complete the configuration, please visit the following URL:"
   );
-  console.log("\x1b[36m%s\x1b[0m", "https://docs.visiocms.com/docs/Getting%20started/installation");
+  console.log("\x1b[36m%s\x1b[0m", "https://docs.visiocms.com/quickstart#setup-steps");
 
 } catch (error) {
   console.log("Failed initializing project.");
